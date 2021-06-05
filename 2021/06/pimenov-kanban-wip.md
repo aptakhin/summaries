@@ -1,6 +1,6 @@
 - https://www.youtube.com/watch?v=-aUAuWVTWpo
 - Есть какой-то неявный WIP-лимит, руководитель не отгружает новые задачи или просто столько задач нет
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2FU1k9gOJ3Ij.png?alt=media&token=5f67a3f6-0320-454e-bf08-d1db3d908f5d | width=100)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2FU1k9gOJ3Ij.png?alt=media&token=5f67a3f6-0320-454e-bf08-d1db3d908f5d)
     - Возможно лимит не под контролем.
 - Вход, выход
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2F3MlA-zt-w6.png?alt=media&token=a7b949b5-f12a-42ea-b00d-55bbaf968709)
@@ -9,7 +9,7 @@
     - Заказчик ты уверен что туда добавляешь задачу?
     - Исполнитель ты уверен что хочешь принять проект с таким дедлайном?
 - С новым проектом новые дедлайны
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2F669hq-zDj7.png?alt=media&token=cfd4053d-4f53-4c72-8c2e-562aaff631a3)
+    - <img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2F669hq-zDj7.png?alt=media&token=cfd4053d-4f53-4c72-8c2e-562aaff631a3" width="300pt" />
     - Что мы будем делать с другими дедлайнами?
     - Не всегда заказчики хотят разговаривать
 - Как выглядит

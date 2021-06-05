@@ -1,19 +1,19 @@
 - https://www.youtube.com/watch?v=-aUAuWVTWpo
 - Есть какой-то неявный WIP-лимит, руководитель не отгружает новые задачи или просто столько задач нет
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2FU1k9gOJ3Ij.png?alt=media&token=5f67a3f6-0320-454e-bf08-d1db3d908f5d)
+    - <img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2FU1k9gOJ3Ij.png?alt=media&token=5f67a3f6-0320-454e-bf08-d1db3d908f5d" width="450pt" />
     - Возможно лимит не под контролем.
 - Вход, выход
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2F3MlA-zt-w6.png?alt=media&token=a7b949b5-f12a-42ea-b00d-55bbaf968709)
+- <img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2F3MlA-zt-w6.png?alt=media&token=a7b949b5-f12a-42ea-b00d-55bbaf968709" width="450pt" />
 - У каждого проекта какой-то дедлайн
 - Хендшейк в точке принятия обязательств
     - Заказчик ты уверен что туда добавляешь задачу?
     - Исполнитель ты уверен что хочешь принять проект с таким дедлайном?
 - С новым проектом новые дедлайны
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2F669hq-zDj7.png?alt=media&token=cfd4053d-4f53-4c72-8c2e-562aaff631a3)
+    - <img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2F669hq-zDj7.png?alt=media&token=cfd4053d-4f53-4c72-8c2e-562aaff631a3" width="450pt" />
     - Что мы будем делать с другими дедлайнами?
     - Не всегда заказчики хотят разговаривать
 - Как выглядит
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2FlWA3tnySbL.png?alt=media&token=e33745ac-3a1b-49d6-a572-95be93a48f18)
+    - <img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2FlWA3tnySbL.png?alt=media&token=e33745ac-3a1b-49d6-a572-95be93a48f18" width="450pt" />
     - Точка принятия в работу
     - Точка принятия работы
     - Job size (не duration)
@@ -28,15 +28,15 @@
     - Не надо. Сделайте вип-лимит на систему.
     - Сейчас 30 проектов в банке, нпаример.
     - Вот 30 проектов WIP-лимит (CONWIP).
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2FFSB-4oDX0n.png?alt=media&token=4acd36f4-91e2-4fc7-9a63-cd5a0f1e3c39)
+    - <img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2FFSB-4oDX0n.png?alt=media&token=4acd36f4-91e2-4fc7-9a63-cd5a0f1e3c39" width="450pt" />
     - Общение с заказчиком: не берём больше.
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2F3m8w7Aw5Y5.png?alt=media&token=f7103bc1-c994-4932-b24b-e0e7d1a56e74)
+    - <img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2F3m8w7Aw5Y5.png?alt=media&token=f7103bc1-c994-4932-b24b-e0e7d1a56e74)
     - Вот здесь работа, а вот пара очередей.
     - Где-то больше работы ближе к концу, где-то ближе к началу
     - Поставили со старта лимиты поровну.
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2F1bnlg0lwte.png?alt=media&token=e01e3aa1-19f3-4af5-86ed-9a13ba223d83)
+        - <img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2F1bnlg0lwte.png?alt=media&token=e01e3aa1-19f3-4af5-86ed-9a13ba223d83" width="450pt" />
     - Приняли управленческое решение и поставили такие лимиты
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2FvOv0JKiFkV.png?alt=media&token=d87178ff-82d7-4a79-be1d-7f931fc42387)
+        - <img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2FvOv0JKiFkV.png?alt=media&token=d87178ff-82d7-4a79-be1d-7f931fc42387" width="450pt" />
         - Стоить ли людям это понимать, способны ли, хотят ли? Или просто понимать свою, неменеджерскую работу.
 - Разные работы – разные риски если не сделаем
 - Работа разного вида job size зависит от
@@ -50,19 +50,19 @@
 - Вида работы (Work item types)
     - __Посмотреть предыдущий стрим про разную визуализацию типов работ__
     - Распределить ёмкость
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2F6w-z9K00VB.png?alt=media&token=e28d9243-6b26-4530-8944-9497d99d8779)
+    - <img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2F6w-z9K00VB.png?alt=media&token=e28d9243-6b26-4530-8944-9497d99d8779" width="450pt" />
     - Новый жёлтый стикер только когда сделали старый жёлтый стикер
     - Есть срочное urgent, которое нужно сделать прямо сейчас – к чёрту FIFO
     - Есть работа которую нужно сделать к дате
     - Есть работа, которую делать если освободился
     - Классы обслуживания
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2FO-Ab1bMUAo.png?alt=media&token=528cb110-e5c2-4999-83d2-d7f5d5dce857)
+        - <img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2FO-Ab1bMUAo.png?alt=media&token=528cb110-e5c2-4999-83d2-d7f5d5dce857" width="450pt" />
         - Urgent бросай всё чини – игнорирует все лимиты
             - Но тогда заказчики будут пользоваться этим и ставить urgent
             - Должен быть какой-то натуральный лимит на кол-во
             - Чинить одновременно не имеет смысла
-            - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2FIXo4HE9ek0.png?alt=media&token=faeec1ab-dfbc-45c7-bb45-6524148c28b7)
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2F_oj4WHrnMp.png?alt=media&token=95a00cd3-13dd-43e0-a950-fbb9d6cff5bd)
+            - <img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2FIXo4HE9ek0.png?alt=media&token=faeec1ab-dfbc-45c7-bb45-6524148c28b7)
+        - <img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2F_oj4WHrnMp.png?alt=media&token=95a00cd3-13dd-43e0-a950-fbb9d6cff5bd" width="450pt" />
 - Вопросы
     - **Q**: Как выполнить правильный расчёт WIP-лимита производственной системы?
         - Никак
@@ -72,13 +72,13 @@
         - Изучать контекст
     - **Q**: Ставить wip'ы на буферы вообще нет смысла?
         - Нет смысла ставить wip только по буферы
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2FJjU_Pumxqn.png?alt=media&token=6a18af32-886c-4666-ac81-81a38564d0aa)
+        - <img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2FJjU_Pumxqn.png?alt=media&token=6a18af32-886c-4666-ac81-81a38564d0aa" width="450pt" />
         - Разработчик не может не передвинуть, ни оставить задачу
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2FvXf4YqQU9R.png?alt=media&token=3c22951f-4c5b-4ab5-b0a8-04e6896b1dbb)
+        - <img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2FvXf4YqQU9R.png?alt=media&token=3c22951f-4c5b-4ab5-b0a8-04e6896b1dbb" width="450pt" />
         - Маленькая активность кодируется на доске пересечением линии. Тест-лид что-то прочекал
         - Test – схлопнутые 2 колонки, но сделали попроще реализацию, потому что сложная не нужна
     - **Q**: Urgent вне системы лимитов?
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2F55MNs_nrRE.png?alt=media&token=3b004a76-614b-45b9-9057-e98f33ce8b2e)
+        - <img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2F55MNs_nrRE.png?alt=media&token=3b004a76-614b-45b9-9057-e98f33ce8b2e" width="450pt" />
     - **Q**: задачи идут регулятору на согласование на полгода
         - Да, CONWIP в два раза больше
         - Нужна дата чтобы не потерять задачи задержанные регулятором

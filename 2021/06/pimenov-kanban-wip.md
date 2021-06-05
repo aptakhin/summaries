@@ -1,6 +1,6 @@
 - https://www.youtube.com/watch?v=-aUAuWVTWpo
 - Есть какой-то неявный WIP-лимит, руководитель не отгружает новые задачи или просто столько задач нет
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2FU1k9gOJ3Ij.png?alt=media&token=5f67a3f6-0320-454e-bf08-d1db3d908f5d)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2FU1k9gOJ3Ij.png?alt=media&token=5f67a3f6-0320-454e-bf08-d1db3d908f5d | width=100)
     - Возможно лимит не под контролем.
 - Вход, выход
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2F3MlA-zt-w6.png?alt=media&token=a7b949b5-f12a-42ea-b00d-55bbaf968709)

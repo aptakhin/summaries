@@ -9,7 +9,7 @@
     - Заказчик ты уверен что туда добавляешь задачу?
     - Исполнитель ты уверен что хочешь принять проект с таким дедлайном?
 - С новым проектом новые дедлайны
-    - <img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2F669hq-zDj7.png?alt=media&token=cfd4053d-4f53-4c72-8c2e-562aaff631a3" width="150pt" />
+    - <img src="https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Faptakhin%2F669hq-zDj7.png?alt=media&token=cfd4053d-4f53-4c72-8c2e-562aaff631a3" width="300" />
     - Что мы будем делать с другими дедлайнами?
     - Не всегда заказчики хотят разговаривать
 - Как выглядит

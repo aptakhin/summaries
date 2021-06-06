@@ -1,3 +1,4 @@
+- https://www.youtube.com/watch?v=g_X7Ob8UDZs&list=PLSBxSiKmqWIDUkHWFkcl_GEqP4vp_Xiqb&index=1
 - Проблема выбора того что должно быть на доске
 - Делаем STATIK
 - Задача определить границы процесса
